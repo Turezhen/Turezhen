@@ -1,7 +1,8 @@
+
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.682000.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=眼泪无法洗去痛苦，但岁月可以抹去一切.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 
@@ -12,26 +13,13 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.682000.xyz/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
-
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
-
-每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
-
-~~同学们不要学我，老是熬夜会长痘~~
+欢迎来到我的主页 😝
 
 💪 正在学习:
 
@@ -73,87 +61,3 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-# 🚀 Action
-
-<!-- 连续提交代码天数记录 -->
-<p align="center">
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p>
-
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
-<br>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
-
-<!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<!-- 最近博客和豆瓣动态 -->
-<table align="center" >
-<tr>
-<td valign="top">
-
-### 🤹‍♀️ <a href="https://anzhiy.cn/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
-</td>
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/252613592" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35691909/' target='_blank'>想看鬼灭之刃 浅草篇</a> - 2022-03-02
-* <a href='https://book.douban.com/subject/2567698/' target='_blank'>读过三体</a> - 2022-01-09
-<!-- END_SECTION:douban -->
-
-</table>
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 February 2025 - To: 11 March 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
-</div>
-
-# 🤝 Social
-
-<!-- BiliBili和CSDN数据 -->
-<div align="center">
-  <a href="https://space.bilibili.com/372204786"><img src="https://stats.justsong.cn/api/bilibili/?id=372204786"/></a>
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1001.2014.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=CZW2268025923?spm=1001.2014.3001.5343"/></a>
-</div>
